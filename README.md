@@ -18,6 +18,7 @@ A player wins by placing three of their marks in a horizontal, vertical, or diag
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-![Screenshot 2024-01-13 141036](https://github.com/AbdullahDaniyal/Tic-Tac-Toe-Advacned/assets/91824833/2a74c38b-debc-4df7-beb3-863cf2e6496f)
 ![Screenshot 2024-01-13 141055](https://github.com/AbdullahDaniyal/Tic-Tac-Toe-Advacned/assets/91824833/b48b0f33-b3a9-424e-85da-5be413bab30f)
+![Screenshot 2024-01-13 141036](https://github.com/AbdullahDaniyal/Tic-Tac-Toe-Advacned/assets/91824833/2a74c38b-debc-4df7-beb3-863cf2e6496f)
+
 
